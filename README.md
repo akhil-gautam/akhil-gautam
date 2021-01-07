@@ -2,11 +2,11 @@
 <h3 align="center">A Software Developer(Ruby & Javascript) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-gautam" alt="akhil-gautam" /> </p>
 
-- 🔭 &nbsp;I’m currently working on [WorkNTrack(private)](https://github.com/WorkNTrack/api_app)
+- 🔭 &nbsp;I’m currently working on [tailwind-ui-components](https://github.com/akhil-gautam/tailwind-ui-components)
 
 - 📝 &nbsp;I sometimes write articles on [https://blog.24x7dev.com/](https://blog.24x7dev.com/)
 
-- 💬 &nbsp;Ask me about **Ruby on Rails, React and Svelte**
+- 💬 &nbsp;Ask me about **Ruby on Rails, React, Tailwind and Svelte**
 
 - 📫 &nbsp;How to reach me **akhilgautam123@gmail.com**
 
