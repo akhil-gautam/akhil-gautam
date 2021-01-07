@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp;I’m currently working on [tailwind-ui-components](https://github.com/akhil-gautam/tailwind-ui-components)
 
-- 📝 &nbsp;I sometimes write articles on [https://blog.24x7dev.com/](https://blog.24x7dev.com/)
+- 📝 &nbsp;I sometimes write articles on [https://blog.akhilgautam.me/](https://blog.akhilgautam.me/)
 
 - 💬 &nbsp;Ask me about **Ruby on Rails, React, Tailwind and Svelte**
 
