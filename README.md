@@ -21,4 +21,3 @@
 <a href="https://medium.com/@akhilgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgautam" height="20" width="20" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/akhil-gautam?template=classic&followup=1&languages=1&isocalendar=1&projects=1&posts=1&pagespeed=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&stars.limit=4&config.timezone=Asia%2FCalcutta)
