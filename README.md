@@ -21,3 +21,6 @@
 <a href="https://medium.com/@akhilgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgautam" height="20" width="20" /></a>
 </p>
 
+## Some of the UIs I have built in Tailwind:
+
+<img src="https://i.ibb.co/qWkBqqH/Screenshot-2021-01-13-at-1-12-00-PM.png" alt="mail client" />
