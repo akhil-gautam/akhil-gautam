@@ -2,15 +2,12 @@
 <h3 align="center">A Software Developer(Ruby & Javascript) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-gautam" alt="akhil-gautam" /> </p>
 
-- 🔭 &nbsp;I’m currently working on [tailwind-ui-components](https://github.com/akhil-gautam/tailwind-ui-components)
+- 📝 &nbsp;I write blogs at [https://akhilgautam.me/](https://akhilgautam.me/)
 
-- 📝 &nbsp;I sometimes write articles on [https://blog.akhilgautam.me/](https://blog.akhilgautam.me/)
-
-- 💬 &nbsp;Ask me about **Ruby on Rails, React, Tailwind and Svelte**
+- 💬 &nbsp;Ask me about **Ruby on Rails, React & general JavaScript stuffs**
 
 - 📫 &nbsp;How to reach me **akhilgautam123@gmail.com**
 
-- ⚡ &nbsp;Fun fact **Chai is the secret of my energy :p**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhil-gautam&show_icons=true" alt="akhil-gautam" /> </p>
 
